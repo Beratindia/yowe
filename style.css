@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+#boxer{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
